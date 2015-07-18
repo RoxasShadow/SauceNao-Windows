@@ -1,0 +1,12 @@
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.config
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.pdb
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.csprojResolveAssemblyReference.cache
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.pdb
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.manifest
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.application
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.TrustInfo.xml
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe.manifest
+E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.application
