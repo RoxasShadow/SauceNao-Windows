@@ -8,3 +8,7 @@ I needed something like [Image Search Options](https://addons.mozilla.org/it/fir
 Usage
 -----
 `> SauceNao-Windows.exe <SAUCENAO_API_KEY> <IMGUR_API_KEY> <IMAGE_PATH> [PROXY IP:PORT]`
+
+Bind to the right-click
+-----------------------
+In order to SauceNAO an image from your local filesystem, just set the correct variable inside `regedit.bat` and then run it as administrator.
