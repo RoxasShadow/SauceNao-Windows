@@ -1,9 +1,9 @@
 # SauceNao-Windows
-Use SauceNao in Windows natively.
+Use SauceNao in Windows natively so you can find the source of every image in your local filesystem through [SauceNAO](http://saucenao.com).
 
-What it does
-------------
-I needed something like [Image Search Options](https://addons.mozilla.org/it/firefox/addon/image-search-options/?src=userprofile) for the images I have already saved in my computer but I didn't found any client, so here we have a [SauceNAO](http://saucenao.com) client for Windows.
+Why
+---
+I needed something like [Image Search Options](https://addons.mozilla.org/it/firefox/addon/image-search-options/?src=userprofile) for the images I have already saved in my computer but I didn't find any decent client.
 
 Usage
 -----
@@ -11,4 +11,4 @@ Usage
 
 Bind to the right-click
 -----------------------
-In order to SauceNAO an image from your local filesystem, just set the correct variable inside `regedit.bat` and then run it as administrator.
+In order to *SauceNAO* an image from your local filesystem, just set the correct variables inside `regedit.bat` and then run it as administrator. [Result](https://twitter.com/GiovanniCapuano/status/622540459974524928).
