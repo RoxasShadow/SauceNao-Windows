@@ -13,8 +13,9 @@ namespace SauceNao_Windows {
   class Program {
     /* TODO: struct User; struct Picture; abstract class Sauce; class Sauces_GenericSauce */
 
+
     static void Main(string[] args) {
-      if(args.Length < 3) {
+      if (args.Length < 3) {
         Console.WriteLine("Usage: SauceNao-Windows.exe <SAUCENAO_API_KEY> <IMGUR_API_KEY> <IMAGE_PATH> [PROXY IP:PORT]");
         Console.ReadLine();
         return;
@@ -26,6 +27,7 @@ namespace SauceNao_Windows {
       //fix: if proxy is not present, args[3] does not exist.
       WebProxy PROXY            = args.Length >= 4 ? new WebProxy(args[3]) : null;
 
+      Console.WriteLine("The requested image is: " + IMAGE_PATH);
       if(!File.Exists(IMAGE_PATH)) {
         Console.WriteLine("Given file was not found.");
         Console.ReadLine();

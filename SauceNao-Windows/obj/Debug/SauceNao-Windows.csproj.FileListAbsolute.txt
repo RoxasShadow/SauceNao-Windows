@@ -11,13 +11,13 @@ E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNa
 E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe.manifest
 E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.application
 C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.config
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.pdb
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.csprojResolveAssemblyReference.cache
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.TrustInfo.xml
 C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.manifest
 C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.application
 C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe
 C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.pdb
+C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.TrustInfo.xml
 C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe.manifest
 C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.application
+C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe
+C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.pdb
+C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.csprojResolveAssemblyReference.cache
