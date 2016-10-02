@@ -23,7 +23,8 @@ namespace SauceNao_Windows {
       string   SAUCENAO_API_KEY = args[0];
       string   IMGUR_API_KEY    = args[1];
       string   IMAGE_PATH       = args[2];
-      WebProxy PROXY            = args.Length >= 3 ? new WebProxy(args[3]) : null;
+      //fix: if proxy is not present, args[3] does not exist.
+      WebProxy PROXY            = args.Length >= 4 ? new WebProxy(args[3]) : null;
 
       if(!File.Exists(IMAGE_PATH)) {
         Console.WriteLine("Given file was not found.");

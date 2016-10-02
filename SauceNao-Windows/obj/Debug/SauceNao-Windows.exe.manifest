@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SauceNao-Windows.exe" size="13824">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SauceNao-Windows.exe" size="13312">
       <assemblyIdentity name="SauceNao-Windows" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fQAxrKbecCoxmWxh1ILjiLuWn2ONFccUHPZcs4eLKLg=</dsig:DigestValue>
+        <dsig:DigestValue>1famGYwoZf+T3xTfyX9+INCsppOVc3n4dFUn6XUPV6g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
