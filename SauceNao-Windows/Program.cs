@@ -24,7 +24,6 @@ namespace SauceNao_Windows {
       string   SAUCENAO_API_KEY = args[0];
       string   IMGUR_API_KEY    = args[1];
       string   IMAGE_PATH       = args[2];
-      //fix: if proxy is not present, args[3] does not exist.
       WebProxy PROXY            = args.Length >= 4 ? new WebProxy(args[3]) : null;
 
       Console.WriteLine("The requested image is: " + IMAGE_PATH);
