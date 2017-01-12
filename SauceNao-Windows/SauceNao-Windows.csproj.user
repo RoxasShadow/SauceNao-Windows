@@ -6,7 +6,7 @@
     <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
-    <ErrorReportUrlHistory />
+    <ErrorReportUrlHistory>https://github.com/RoxasShadow/SauceNao-Windows/issues</ErrorReportUrlHistory>
     <FallbackCulture>it-IT</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>

@@ -22,9 +22,13 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
+    <SupportUrl>https://github.com/RoxasShadow/SauceNao-Windows</SupportUrl>
     <ErrorReportUrl>https://github.com/RoxasShadow/SauceNao-Windows/issues</ErrorReportUrl>
-    <ApplicationRevision>0</ApplicationRevision>
-    <ApplicationVersion>0.1.5.0</ApplicationVersion>
+    <TargetCulture>en</TargetCulture>
+    <ProductName>SauceNAO-Windows</ProductName>
+    <PublisherName>RoxasShadow</PublisherName>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>0.1.6.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -94,7 +98,7 @@
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
       <Visible>False</Visible>
-      <ProductName>Microsoft .NET Framework 4.5 %28x86 e x64%29</ProductName>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
