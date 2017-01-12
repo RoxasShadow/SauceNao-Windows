@@ -25,9 +25,9 @@
     <SupportUrl>https://github.com/RoxasShadow/SauceNao-Windows</SupportUrl>
     <ErrorReportUrl>https://github.com/RoxasShadow/SauceNao-Windows/issues</ErrorReportUrl>
     <TargetCulture>en</TargetCulture>
-    <ProductName>SauceNAO-Windows</ProductName>
+    <ProductName>SauceNAO for Windows</ProductName>
     <PublisherName>RoxasShadow</PublisherName>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>0.1.6.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
