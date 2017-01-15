@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <PublishUrlHistory>publish\</PublishUrlHistory>
     <InstallUrlHistory />
-    <SupportUrlHistory>https://github.com/RoxasShadow/SauceNao-Windows</SupportUrlHistory>
+    <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
-    <ErrorReportUrlHistory>https://github.com/RoxasShadow/SauceNao-Windows/issues</ErrorReportUrlHistory>
-    <FallbackCulture>it-IT</FallbackCulture>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
 </Project>
