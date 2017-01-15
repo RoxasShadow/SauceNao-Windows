@@ -1,0 +1,12 @@
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Release\SauceNao-Windows.exe.config
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Release\SauceNao-Windows.exe.manifest
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Release\SauceNao-Windows.application
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Release\SauceNao-Windows.exe
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Release\SauceNao-Windows.pdb
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Release\Newtonsoft.Json.dll
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Release\Newtonsoft.Json.xml
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Release\SauceNao-Windows.TrustInfo.xml
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Release\SauceNao-Windows.exe.manifest
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Release\SauceNao-Windows.application
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Release\SauceNao-Windows.exe
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Release\SauceNao-Windows.pdb

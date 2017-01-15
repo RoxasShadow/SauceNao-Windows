@@ -15,6 +15,8 @@ namespace SauceNao_Windows {
 
 
     static void Main(string[] args) {
+      Console.Title = "SauceNAO for Windows";
+
       if (args.Length < 3) {
         Console.WriteLine("Usage: SauceNao-Windows.exe <SAUCENAO_API_KEY> <IMGUR_API_KEY> <IMAGE_PATH> [PROXY IP:PORT]");
         Console.ReadLine();

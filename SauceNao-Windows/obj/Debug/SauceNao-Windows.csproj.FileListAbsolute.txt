@@ -1,23 +1,26 @@
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.config
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.pdb
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.csprojResolveAssemblyReference.cache
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.pdb
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\Newtonsoft.Json.dll
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.manifest
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.application
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.TrustInfo.xml
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe.manifest
-E:\Users\Giovanni\Documents\Visual Studio 2013\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.application
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.config
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.manifest
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.application
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\bin\Debug\SauceNao-Windows.pdb
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.TrustInfo.xml
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe.manifest
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.application
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.pdb
-C:\Users\alfateam\Documents\wowo\saucenao\SauceNao-Windows\obj\Debug\SauceNao-Windows.csprojResolveAssemblyReference.cache
+c:\users\giovanni\documents\visual studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.config
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.pdb
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.csprojResolveAssemblyReference.cache
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.pdb
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.TrustInfo.xml
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.manifest
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\bin\Debug\SauceNao-Windows.application
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe.manifest
+C:\Users\giovanni\Documents\Visual Studio 2015\Projects\SauceNao-Windows\SauceNao-Windows\obj\Debug\SauceNao-Windows.application
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.config
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Debug\SauceNao-Windows.pdb
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe.manifest
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Debug\SauceNao-Windows.application
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Debug\SauceNao-Windows.exe
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Debug\SauceNao-Windows.pdb
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Debug\SauceNao-Windows.csprojResolveAssemblyReference.cache
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Debug\SauceNao-Windows.TrustInfo.xml
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Debug\SauceNao-Windows.exe.manifest
+C:\Users\giovanni\Downloads\SauceNao-Windows-master\SauceNao-Windows\obj\Debug\SauceNao-Windows.application
